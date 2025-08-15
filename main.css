@@ -1,0 +1,10 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #0A192F; /* <-- this is your overall background */
+    color: white;
+    /* line-height: 1.6; */
+}
+
+section {
+    padding: 40px 50px; /* reduces vertical space between sections */
+}
